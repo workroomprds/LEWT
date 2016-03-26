@@ -1,12 +1,19 @@
 ### The London Exploratory Workshop in Testing.
-LEWT is a peer workshop. It's a safe-ish place for a small group to explore ideas in software testing. LEWT01 was in 2005, and LEWT12 was in 2014, but it is currently inactive. This site exists to explain some of the ideas behind what we did. Other peer workshops do other things, and yours should, too.
+LEWT is a peer workshop. It's a safe-ish place for a small group to explore ideas in software testing. LEWT01 was in 2005, and LEWT12 was in 2014, but it is currently inactive. This site exists to explain some of the ideas behind what we did. None of this is gospel: Other peer workshops do other things, and yours should, too.
+
+
+### What it was for
+I started LEWT because I found that peer workshops gave me more insights more quickly than any other format. My experience was with LAWST-format workshops, and though the LAWST handbook was a crucial source*, I wanted things that LAWST didn't. LAWST aimed to "crystalize", while I wanted to explore. I particularly valued diverse opinions held flexibly by interested people – and I wanted to avoid agenda-setting polemics. I sketched out something that gave made the group responsible for the content, the composition, and the shape of the day. We had an audio recording rather than a scribe. This had the happy side-effect (also an aim) of making workshops easy to organise. We didn't need a content owner, we didn't spend time deciding who might meet our standards, we took moments to decide who was on first. 
+
+*I was influenced by Open Space formats, and (oddly enough) by the TimeOut Guide to Country Walks. I expect that hindsight gives more reason and shape than was actually present.
+
 
 ### Selecting people and content
-Composition is important. I'm often asked – by organisers – how I select people for LEWT.
+I'm often asked – by organisers – how I select people for LEWT.
 
 Short answer: We don't.
 
-Group composition is important – important enough to be left to the group. I want a diversity of ideas, but if I selected the group, I expect that the group would reflect my biases. So we have a very simple approach to application and invitation - if someone asks if they can come, then they can. Done.
+Group composition is important. I want a diversity of ideas, but if I selected the group, I expect that the group would reflect my biases. So /I/ don't select anyone. /We/ have a very simple approach to application and invitation - if someone asks if they can come, then they can. Done.
 
 The wrinkles, as always, are at the edges:
 - some people think they have a right to a seat: Currently, I ask prior participants to set the theme and the date, so they know before anyone else. This gives them precedence, but if they don't take the opportunity, they don't get to go.
