@@ -1,24 +1,31 @@
 ### The London Exploratory Workshop in Testing.
-LEWT is a peer workshop. It's a safe-ish place for a small group to explore ideas in software testing. LEWT01 was in 2005, and LEWT12 was in 2014, but it is currently inactive. This site exists to explain some of the ideas behind what we did. Other peer workshops do other things, and yours should, too.
+LEWT is a peer workshop. It's a safe-ish place for a small group to explore ideas in software testing. LEWT01 was in 2005, and LEWT12 was in 2014, but it is currently inactive. This site exists to explain some of the ideas behind what we did. None of this is gospel: Other peer workshops do other things, and yours should, too.
 
-### Selecting people and content
-Composition is important. I'm often asked – by organisers – how I select people for LEWT.
+
+### What it was for
+I started LEWT because I found that peer workshops gave me more insights more quickly than any other format. My experience was with LAWST-format workshops, and though the LAWST handbook was a crucial source*, I wanted things that LAWST didn't. LAWST aimed to "crystalize", while I wanted to explore. I particularly valued diverse opinions held flexibly by interested people – and I wanted to avoid agenda-setting polemics. I sketched out something that gave made the group responsible for the content, the composition, and the shape of the day. We had an audio recording rather than a scribe. This had the happy side-effect (also an aim) of making workshops easy to organise. We didn't need a content owner, we didn't spend time deciding who might meet our standards, we took moments to decide who was on first. 
+
+I was influenced by Open Space formats, and (oddly enough) by the TimeOut Guide to Country Walks. I expect that hindsight gives more reason and shape than was actually present.
+
+
+### Who comes, and what we talk about
+I'm often asked – by organisers – how I select people for LEWT.
 
 Short answer: We don't.
 
-Group composition is important – important enough to be left to the group. I want a diversity of ideas, but if I selected the group, I expect that the group would reflect my biases. So we have a very simple approach to application and invitation - if someone asks if they can come, then they can. Done.
+Group composition is important. I want a diversity of ideas, but if I selected the group, I expect that the group would reflect my biases. So /I/ don't select anyone. /We/ have a very simple approach to application and invitation - if someone asks if they can come, then they can. Done.
 
-The wrinkles, as always, are at the edges:
-- some people think they have a right to a seat: Currently, I ask prior participants to set the theme and the date, so they know before anyone else. This gives them precedence, but if they don't take the opportunity, they don't get to go.
-- too many people for the group: I tell people that there's a cutoff, what the cutoff is, and that people who apply when numbers are under the cutoff can come, and people who are later can't come. Personally, I think the max size for any peer group is rather under 20.
-- too many people for the room: I find a new room. Hasn't happened - our usual room takes 18 at a pinch, and that's us.
-- wrong people: who am I to judge? However, if someone applies out of the blue, I'll talk with them so that /they/ can judge if they're the right person. Usually their judgement is sound.
+We usually – but not inevitably – set a topic beforehand. It's usually one word. I may suggest some, I ask prior attendees to suggest others, and I pick one.
 
-If someone's interested enough to ask to come to LEWT and to give up their time to be part of it, then they're in - whether they 'fit' the group, or not. We have had people who didn't fit, and sometimes they've been wonderful contributors, sometimes they've triggered good conversations and interesting realignments. No one has walked out yet. A few participants have complained about others, and I can deal with that as facilitator if something is said early enough. I sometimes find my own comfort challenged – but I don't think it's my role to exclude someone, and I'm sure that the group is muscular enough to chew someone up and spit them out if it absolutely has to.
+I ask everyone to come prepared to offer a talk. People generally – but not inevitably – indicate their angle on the topic to the group as they claim their space. Talks are insubstantial; 10 minutes long at most. The important stuff lives in the discussions after the talk.
 
-We don't have a content owner deciding what gets attention or priority, we don't have a scribe making public notes, we don't have a mission. We all agree at the outset to be facilitated, which helps - but we don't necessarily decide what 'facilitation' is.
+We vote on which talks go first. We timebox the talks so that we have a chance of getting through most or all of them, but later talks may get less time. Sometimes people add or withdraw talks during the day.
+
+We don't have a content owner deciding what gets attention or priority, we don't have a scribe making public notes, we don't have a mission. We do have a facilitator, and agree at the outset to be facilitated.
 
 I don't select people, and I don't select talks. To the extent that it matters, LEWT selects them. LEWT is a group, but it's not my group. It is, I hope, its own.
+
+
 
 ###Strategy
 
@@ -29,6 +36,17 @@ The thought is this: at a peer workshop, I should consider everyone my peer. For
 I had assumed that sense was a central guidance to peer conferences – even if, in practice, it was occasionally hard to see such respect in action. However, I’m no longer certain of this; when I’ve shared my position with other peer conference organisers, it has been (generally) either alien or less important. I think this gets hard with > 8 people, and is pretty impossible with >15. A 25-person room will naturally form groups, gurus, acolytes and pariahs – so it’s ludicrous of me to expect larger peer conferences to work this way.
 
 Note: The facilitator is /not/ a peer. The participants give the facilitator their attention, and their permission to stop and start them, in pursuit of a greater goal then their own individual airtime. The facilitator accepts their temporary status, and returns the favour by serving the group and putting his or her own needs aside.
+
+###Special cases
+If someone's interested enough to ask to come to LEWT and to give up their time to be part of it, then they're in - whether they 'fit' the group, or not. We have had people who didn't fit, and sometimes they've been wonderful contributors, sometimes they've triggered good conversations and interesting realignments. No one has walked out yet. A few participants have complained about others, and I can deal with that as facilitator if something is said early enough. I sometimes find my own comfort challenged – but I don't think it's my role to exclude someone, and I'm sure that the group is muscular enough to chew someone up and spit them out if it absolutely has to.
+
+But there are always wrinkles.
+
+- some people think they have a right to a seat: Currently, I ask prior participants to set the theme and the date, so they know before anyone else. This gives them precedence, but if they don't take the opportunity, they don't get to go.
+- too many people for the group: I tell people that there's a cutoff, what the cutoff is, and that people who apply when numbers are under the cutoff can come, and people who are later can't come. Personally, I think the max size for any peer group is rather under 20.
+- too many people for the room: I find a new room. Hasn't happened - our usual room takes 18 at a pinch, and that's us.
+- wrong people: who am I to judge? However, if someone applies out of the blue, I'll talk with them so that /they/ can judge if they're the right person. Usually their judgement is sound.
+
 
 
 
@@ -52,6 +70,10 @@ Everyone should be able to see everyone else’s face, all the time. Other than 
 ###Visuals
 I strongly discourage slides, and encourage flip charts. They’re more immediate, more interactive, and less goes wrong. I prefer flipcharts to whiteboards, as they’re more permanent and one can flip back.
 
+###Recordings
+I record LEWT (I use a Rode NT-4 stero mic, if you're wondering). I record because I think there should be a recording, one we can revisit and remind ourselves what was said, who said it, what was said before, what the reactions were. To listen at leisure, or after a long while. I record, also, because I can; it's something I do occasionally for money. Everyone in the workshop has access to the recordings, which I split and tag as MP3s (and what a pain that can be – but Fission and various hefty DAWs help). However, being recorded changes something about how one communicates. More so if one knows that posterity is public, so I ask the group to not distribute the recordings beyond those whe were part of that particular LEWT. Sometimes, we've all agreed, and have allowed a recording to be made more public. But LEWT isn't a performance, and I don't want people censoring their interactions becuase they're worried the reaction of an imaginary someone outside the context of the room.
+
+We don't have a scribe (someone who writes up what's going on, as it's going on, in a public way – a flipchart, big wall or blog). A scribe is yet another non-peer role – and their record is necessarily both partial and biased. We don't have a transcript. They can be pricy, and don't capture nuance or (easily) the speaker. Also, my recordings are sometimes rather indistinct.
 
 ###On facilitation
 I've been the primary facilitator and instigator of the LEWTs to date, so while this is LEWT's approach (so far), it's written fro my own point of view. Yours, and your group's, will be different. 
@@ -91,6 +113,7 @@ Groups I've facilitated on LEWT lines: SWOPR, Let's Test EWT
 Groups who have asked me for advice: DEWT, MEWT, CEWT, SWEWT
 
 Others: TiTAN, Swedish WST, more...
+
 
 ###Source
 This document is an aggregation of emails I've written to organisers (and putative organisers) if a bunch of groups. I wrote all of it, though you'll find some of it shared elsewhere in earlier articles. I'm making this open source / under creative commons, so use it as you wish. I'll blog it in bits, but the live version is here – and I'm accepting changes.
