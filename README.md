@@ -5,7 +5,7 @@ LEWT is a peer workshop. It's a safe-ish place for a small group to explore idea
 ### What it was for
 I started LEWT because I found that peer workshops gave me more insights more quickly than any other format. My experience was with LAWST-format workshops, and though the LAWST handbook was a crucial source*, I wanted things that LAWST didn't. LAWST aimed to "crystalize", while I wanted to explore. I particularly valued diverse opinions held flexibly by interested people – and I wanted to avoid agenda-setting polemics. I sketched out something that gave made the group responsible for the content, the composition, and the shape of the day. We had an audio recording rather than a scribe. This had the happy side-effect (also an aim) of making workshops easy to organise. We didn't need a content owner, we didn't spend time deciding who might meet our standards, we took moments to decide who was on first. 
 
-I was influenced by Open Space formats, and (oddly enough) by the TimeOut Guide to Country Walks. I expect that hindsight gives more reason and shape than was actually present.
+**I was influenced by Open Space formats, and (oddly enough) by the TimeOut Guide to Country Walks. I expect that hindsight gives more reason and shape than was actually present.*
 
 
 ### Who comes, and what we talk about
@@ -69,6 +69,9 @@ Everyone should be able to see everyone else’s face, all the time. Other than 
 
 ###Visuals
 I strongly discourage slides, and encourage flip charts. They’re more immediate, more interactive, and less goes wrong. I prefer flipcharts to whiteboards, as they’re more permanent and one can flip back.
+
+###Sponsorship
+I've avoided sponsorship. I want LEWT to be "owned" by those who turn up. We split the cost of room and lunch. It can be under a tenner a head if the room's free. And in some pubs, it is.
 
 ###Recordings
 I record LEWT (I use a Rode NT-4 stero mic, if you're wondering). I record because I think there should be a recording, one we can revisit and remind ourselves what was said, who said it, what was said before, what the reactions were. To listen at leisure, or after a long while. I record, also, because I can; it's something I do occasionally for money. Everyone in the workshop has access to the recordings, which I split and tag as MP3s (and what a pain that can be – but Fission and various hefty DAWs help). However, being recorded changes something about how one communicates. More so if one knows that posterity is public, so I ask the group to not distribute the recordings beyond those whe were part of that particular LEWT. Sometimes, we've all agreed, and have allowed a recording to be made more public. But LEWT isn't a performance, and I don't want people censoring their interactions becuase they're worried the reaction of an imaginary someone outside the context of the room.
